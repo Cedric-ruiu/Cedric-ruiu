@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://cedric-ruiu.fr"><img alt="Website" src="https://img.shields.io/badge/cedric--ruiu.fr-1e6c8e?style=flat-square"></a>
-  <a href="mailto:cedric.ruiu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1e6c8e?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:contact@cedric-ruiu.fr"><img alt="Email" src="https://img.shields.io/badge/Email-1e6c8e?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.npmjs.com/package/@cedric-ruiu/stylelint-config"><img alt="npm" src="https://img.shields.io/badge/npm-1e6c8e?style=flat-square&logo=npm&logoColor=white"></a>
 </p>
 
@@ -68,7 +68,7 @@ I dive and freedive in the Gulf of Morbihan, volunteer with Bretagne Vivante, ph
 
 Tell me what you do and what you would like to improve. You will get an honest first opinion, including when the answer is that you do not need a new site.
 
-**[cedric-ruiu.fr](https://cedric-ruiu.fr)** · **[cedric.ruiu@gmail.com](mailto:cedric.ruiu@gmail.com)** · Séné, Morbihan (56), France
+**[cedric-ruiu.fr](https://cedric-ruiu.fr)** · **[contact@cedric-ruiu.fr](mailto:contact@cedric-ruiu.fr)** · Séné, Morbihan (56), France
 
 <sub>My site is in French. The code and the conversation are not.<br>
 No tracking pixel, no generated stat cards, no animated banner on this page. Same principle as the sites I build.</sub>
