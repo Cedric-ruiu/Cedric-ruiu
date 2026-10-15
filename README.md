@@ -27,7 +27,7 @@ Everything below is live. Open it, load it on a phone, run Lighthouse on it.
 
 | Project | What it is | Stack |
 | :--- | :--- | :--- |
-| **[cedric-ruiu.fr](https://cedric-ruiu.fr)**<br>[source](https://github.com/Cedric-ruiu/cedric-ruiu.fr) | My own studio site. Zero trackers, zero third-party CDN, content in Markdown. | Eleventy 3 · Tailwind v4 (OKLCH) · Nunjucks |
+| **[cedric-ruiu.fr](https://cedric-ruiu.fr)**<br>[source](https://github.com/Cedric-ruiu/cedric-ruiu.fr) | My own studio site. Zero pixel ads, Zero third-party CDN, content in Markdown. | Eleventy 3 · Tailwind v4 (OKLCH) · Nunjucks |
 | **[Myrmecophoto](https://myrmecophoto.fr)**<br>[source](https://github.com/Cedric-ruiu/myrmecophoto-vue) | Naturalist macro-photography of European ants: a taxonomic collection, one page per species, plus a field journal. Database-backed at build time, fully static at runtime. | Nuxt · Prisma · SQLite · SSG |
 | **[Aksel San Tattoo](https://akselsan-tattoo.com)**<br>[source](https://github.com/Cedric-ruiu/akselsan-tattoo-website) | Client site for a tattoo artist near Strasbourg: portfolio, flashes, booking enquiry. Entirely static — nothing to patch, nothing to fall over under traffic. | Eleventy · Sass |
 | **[GypSum](https://cedric-ruiu.github.io/gyp-sum/)**<br>[source](https://github.com/Cedric-ruiu/gyp-sum) | Plaster-mould calculator for ceramics. Derives exact water and plaster quantities from real gypsum density instead of a rule of three. Runs entirely in the browser. | Vue 3 · Vite |
